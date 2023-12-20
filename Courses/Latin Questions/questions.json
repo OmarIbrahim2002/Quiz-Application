@@ -1,0 +1,453 @@
+[
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "1- The Gender of the word 'agricola' is ...........",
+        "answer_1": "a) Feminine",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Neuter",
+
+        "right_answer": "b) Masculine"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "2- The Gender of the word 'incola' is ..........",
+        "answer_1": "a) Feminine",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Neuter",
+
+        "right_answer": "b) Masculine"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "3- The Gender of the word 'rosa' is ..........",
+        "answer_1": "a) Feminine",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Neuter",
+
+        "right_answer": "a) Feminine"
+    },
+
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "4- The Gender of the word 'casa' is ..........",
+        "answer_1": "a) Feminine",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Neuter",
+
+        "right_answer": "a) Feminine"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "5- The Gender of the word 'auriga' is ..........",
+        "answer_1": "a) Feminine",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Neuter",
+
+        "right_answer": "b) Masculine"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "6- The Gender of the word 'Athenae' is ..........",
+        "answer_1": "a) Feminine",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Neuter",
+
+        "right_answer": "a) Feminine"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "7- The Gender of the word 'silva' is ..........",
+        "answer_1": "a) Feminine",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Neuter",
+
+        "right_answer": "a) Feminine"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "8- The Gender of the word 'nauta' is ..........",
+        "answer_1": "a) Feminine",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Neuter",
+
+        "right_answer": "b) Masculine"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "9- The Gender of the word 'advena' is ..........",
+        "answer_1": "a) Feminine",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Neuter",
+
+        "right_answer": "b) Masculine"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "10-The Gender of the word 'stella' is ...........",
+        "answer_1": "a) Feminine",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Neuter",
+
+        "right_answer": "a) Feminine"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "11-The Case of the word 'rosam' is ..........",
+        "answer_1": "a) Nom.Sing",
+        "answer_2": "b) Acc.Plur",
+        "answer_3": "c) Acc.Sing",
+
+        "right_answer": "c) Acc.Sing"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "12- The Case of the word 'mensas' is ..........",
+        "answer_1": "a) Nom.Sing",
+        "answer_2": "b) Acc.Plur",
+        "answer_3": "c) Acc.Sing",
+
+        "right_answer": "b) Acc.Plur"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "13- The Case of the word 'mensarum' is ..........",
+        "answer_1": "a) Nom.Sing",
+        "answer_2": "b) Acc.Plur",
+        "answer_3": "c) Gen.Plur",
+
+        "right_answer": "c) Gen.Plur"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "14- The Case of the word 'agricolam' is ..........",
+        "answer_1": "a) Nom.Sing",
+        "answer_2": "b) Acc.Plur",
+        "answer_3": "c) Acc.Sing",
+
+        "right_answer": "c) Acc.Sing"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "15- The Case of the word 'incolis' is ..........",
+        "answer_1": "a) Acc.Plur",
+        "answer_2": "b) Acc.Sing",
+        "answer_3": "c) Abl.Plur",
+
+        "right_answer": "c) Abl.Plur"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "16- The Case of the word 'stellae' is ..........",
+        "answer_1": "a) Nom.Sing",
+        "answer_2": "b) Nom.Plur",
+        "answer_3": "c) Acc.Sing",
+
+        "right_answer": "a) Nom.Sing"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "17- The Case of the word 'mensae' is ..........",
+        "answer_1": "a) Nom.Sing",
+        "answer_2": "b) Gen Sing",
+        "answer_3": "c) Acc.Sing",
+
+        "right_answer": "b) Gen Sing"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "18- The Case of the word 'alam' is ..........",
+        "answer_1": "a) Nom.Sing",
+        "answer_2": "b) Gen Sing",
+        "answer_3": "c) Acc.Sing",
+
+        "right_answer": "c) Acc.Sing"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "19- Nouns are using in singular except for: ..........",
+        "answer_1": "a) iustitia",
+        "answer_2": "b) scientia",
+        "answer_3": "c) nauta",
+
+        "right_answer": "c) nauta"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "20- Nouns are Masculine except for: ...........",
+        "answer_1": "a) incola",
+        "answer_2": "b) iustitia",
+        "answer_3": "c) poeta",
+
+        "right_answer": "b) iustitia"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "21- The meaning of the word 'regina': ..........",
+        "answer_1": "a) farmer",
+        "answer_2": "b) poet",
+        "answer_3": "c) queen",
+
+        "right_answer": "c) queen"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "22- The meaning of the word 'aquila': .........",
+        "answer_1": "a) eagle",
+        "answer_2": "b) poet",
+        "answer_3": "c) girl",
+
+        "right_answer": "a) eagle"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "23- The meaning of the word 'hasta': ..........",
+        "answer_1": "a) spear",
+        "answer_2": "b) arrow",
+        "answer_3": "c) wing",
+
+        "right_answer": "a) spear"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "24- The meaning of the word 'mensa': ..........",
+        "answer_1": "a) farmer",
+        "answer_2": "b) men",
+        "answer_3": "c) table",
+
+        "right_answer": "c) table"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "25- The Voc.Plur of the word 'mensa': ..........",
+        "answer_1": "a) mensa",
+        "answer_2": "b) mensas",
+        "answer_3": "c) mensae",
+
+        "right_answer": "c) mensae"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "26- The Acc.Plur of the word 'agricola': ..........",
+        "answer_1": "a) agricola",
+        "answer_2": "b) agricolam",
+        "answer_3": "c) agricolas",
+
+        "right_answer": "c) agricolas"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "27-The Abl.Plur of the word 'nauta': ..........",
+        "answer_1": "a) nautis",
+        "answer_2": "b) nautarum",
+        "answer_3": "c) nautas",
+
+        "right_answer": "a) nautis"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "28- The Nom.sing of the word silva: ..........",
+        "answer_1": "a) sylvae",
+        "answer_2": "b) silvis",
+        "answer_3": "c) silva",
+
+        "right_answer": "c) silva"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "29- The Voc.sing of the word 'donna': ..........",
+        "answer_1": "a) donnae",
+        "answer_2": "b) donnam",
+        "answer_3": "c) donna",
+
+        "right_answer": "c) donna"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "30- The meaning of the word 'terra': ..........",
+        "answer_1": "a) wife",
+        "answer_2": "b) land",
+        "answer_3": "c) arrow",
+
+        "right_answer": "b) land"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "31- The Tense of the verb 'monebat' is ..........",
+        "answer_1": "a) Imperfect",
+        "answer_2": "b) Future",
+        "answer_3": "c) Future Perfect",
+
+        "right_answer": "a) Imperfect"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "32- The Tense of the verb 'eras' is ..........",
+        "answer_1": "a) Pluperfect",
+        "answer_2": "b) Future Perfect",
+        "answer_3": "c) Imperfect",
+
+        "right_answer": "c) Imperfect"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "33- The Tense of the verb 'portaverit' is ..........",
+        "answer_1": "a) Perfect",
+        "answer_2": "b) Pluperfect",
+        "answer_3": "c) Future Perfect",
+
+        "right_answer": "c) Future Perfect"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "34- The Tense of the verb 'sumus' is ..........",
+        "answer_1": "a) Perfect",
+        "answer_2": "b) Pluperfect",
+        "answer_3": "c) Present",
+
+        "right_answer": "c) Present"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "35- The Case of the verb 'portatis' is .........",
+        "answer_1": "a) 1st person.sing",
+        "answer_2": "b) 2nd person.sing",
+        "answer_3": "c) 2nd person.plur",
+
+        "right_answer": "c) 2nd person.plur"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "36- The Case of the verb 'laudavimus' is ..........",
+        "answer_1": "a) 2nd person.sing",
+        "answer_2": "b) 3rd person.sing",
+        "answer_3": "c) 1st person.plur",
+
+        "right_answer": "c) 1st person.plur"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "37- The Meaning of the word 'poeta': ..........",
+        "answer_1": "a) name",
+        "answer_2": "b) poet",
+        "answer_3": "c) head",
+
+        "right_answer": "b) poet"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "38- The Meaning of the word 'puer': ..........",
+        "answer_1": "a) teacher",
+        "answer_2": "b) master",
+        "answer_3": "c) boy",
+
+        "right_answer": "c) boy"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "39- The Meaning of the word 'gener': ..........",
+        "answer_1": "a) book",
+        "answer_2": "b) son-in-law",
+        "answer_3": "c) father-in-law",
+
+        "right_answer": "b) son-in-law"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "40- The Meaning of the word 'liber': ..........",
+        "answer_1": "a) girl",
+        "answer_2": "b) woman",
+        "answer_3": "c) book",
+
+        "right_answer": "c) book"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "41- The Acc.Singular of 'mensa': ..........",
+        "answer_1": "a) mensam",
+        "answer_2": "b) mensas",
+        "answer_3": "c) mensis",
+
+        "right_answer": "a) mensam"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "42- The Ablative-Singular of 'agricola': ..........",
+        "answer_1": "a) agricola",
+        "answer_2": "b) agricoli",
+        "answer_3": "c) agricolae",
+
+        "right_answer": "a) agricola"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "43- The Gen-Singular of 'servus': ..........",
+        "answer_1": "a) servo",
+        "answer_2": "b) servae",
+        "answer_3": "c) servi",
+
+        "right_answer": "c) servi"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "44- The Acc-Singular of 'ager': ..........",
+        "answer_1": "a) agerum",
+        "answer_2": "b) ager",
+        "answer_3": "c) agrum",
+
+        "right_answer": "c) agrum"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "45- The Gen-Singular of 'socer': ..........",
+        "answer_1": "a) soccer",
+        "answer_2": "b) soceri",
+        "answer_3": "c) socri",
+
+        "right_answer": "b) soceri"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "46- The Gender of the word 'advena' is ..........",
+        "answer_1": "a) Neuter",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Feminine",
+
+        "right_answer": "b) Masculine"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "47- The Gender of the word 'Aegyptus' is ……………",
+        "answer_1": "a) Neuter",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Feminine",
+
+        "right_answer": "c) Feminine"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "48- The Gender of the word 'bellum' is ..........",
+        "answer_1": "a) Nominative",
+        "answer_2": "b) Masculine",
+        "answer_3": "c) Neuter",
+
+        "right_answer": "c) Neuter"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "49- The Tense of the verb 'monui' is ..........",
+        "answer_1": "a) Perfect",
+        "answer_2": "b) Pluperfect",
+        "answer_3": "c) Future Perfect",
+
+        "right_answer": "a) Perfect"
+    },
+    {
+        "heading": "A) Answer the Following Questions:",
+        "title": "50- The Acc - Singular of 'mensa': ..........",
+        "answer_1": "a) mensam",
+        "answer_2": "b) mensas",
+        "answer_3": "c) mensis",
+
+        "right_answer": "a) mensam"
+    }
+]

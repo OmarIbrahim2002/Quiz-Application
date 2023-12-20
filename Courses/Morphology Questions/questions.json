@@ -1,0 +1,526 @@
+[
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "1- The word ‘elephant’ consists of -------.",
+        "answer_1": "a) one morpheme",
+        "answer_2": "b) two morphemes",
+        "answer_3": "c) three morphemes",
+
+        "right_answer": "a) one morpheme"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "2- The word ‘modernized’ consists of -------",
+        "answer_1": "a) one morpheme",
+        "answer_2": "b) two morphemes",
+        "answer_3": "c) three morphemes",
+
+        "right_answer": "c) three morphemes"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "3- The suffix -er in the word ‘Londoner’ means -------.",
+        "answer_1": "a) someone who does something",
+        "answer_2": "b) someone who inhabits a place.",
+        "answer_3": "c) comparing two entities",
+
+        "right_answer": "b) someone who inhabits a place."
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "4- The relationship between the words ‘go/went’ can be described as---",
+        "answer_1": "a) conversion",
+        "answer_2": "b) suppletion",
+        "answer_3": "c) internal change",
+
+        "right_answer": "b) suppletion"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "5- The relationship between the words ‘foot/feet’ can be described as---",
+        "answer_1": "a) conversion",
+        "answer_2": "b) suppletion",
+        "answer_3": "c) internal change",
+
+        "right_answer": "c) internal change"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "6- The relationship between the words ‘teach/teacher’ can be described as -------.",
+        "answer_1": "a) stress placement",
+        "answer_2": "b) suppletion",
+        "answer_3": "c) derivation",
+
+        "right_answer": "c) derivation"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "7- The relationship between the words ‘present / pre’sent can be described as -------.",
+        "answer_1": "a) stress placement",
+        "answer_2": "b) suppletion",
+        "answer_3": "c) internal change",
+
+        "right_answer": "a) stress placement"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "8- The word ‘unhealthy’ consists of -------.",
+        "answer_1": "a) one morpheme",
+        "answer_2": "b) two morphemes",
+        "answer_3": "c) three morphemes",
+
+        "right_answer": "c) three morphemes"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "9- which of the following is a morpheme?",
+        "answer_1": "a) ss",
+        "answer_2": "b) sh",
+        "answer_3": "c) re",
+
+        "right_answer": "c) re"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "10- Which of the following words is classified as an exocentric compound?",
+        "answer_1": "a) wisdomtooth",
+        "answer_2": "b) caveman",
+        "answer_3": "c) walkman",
+
+        "right_answer": "c) walkman"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "11- A compound is ---------",
+        "answer_1": "a) a word with more than one affix.",
+        "answer_2": "b) a morpheme that contains an infix",
+        "answer_3": "c) a word that contains more than one lexical items.",
+
+        "right_answer": "c) a word that contains more than one lexical items."
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "12- Allomorphs are -----------.",
+        "answer_1": "a) affixes which create nouns",
+        "answer_2": "b) variations of the same morpheme",
+        "answer_3": "c) morphemes which are inserted inside the root",
+
+        "right_answer": "b) variations of the same morpheme"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "13- Which of the following sentences is correct?",
+        "answer_1": "a) The player dropped kick the ball.",
+        "answer_2": "b) The player drop kicked the ball",
+        "answer_3": "c) The player dropped kicked the ball.",
+
+        "right_answer": "b) The player drop kicked the ball"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "14- “Greenhouse” belongs to the category --------",
+        "answer_1": "a) verb compound ",
+        "answer_2": "b) noun compound",
+        "answer_3": "c) adjective compound",
+
+        "right_answer": "b) noun compound"
+    },
+    {
+        "heading": "A) Choose the correct answer:",
+        "title": "15- “nationwide” belongs to the category --------",
+        "answer_1": "a) verb compound",
+        "answer_2": "b) noun compound",
+        "answer_3": "c) adjective compound",
+
+        "right_answer": "c) adjective compound"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "16-The addition of the suffix ‘-ity’ to the base ‘sane’ triggers a phonological change to the base",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "17-Derivational affixes can change the syntactic category of the word they attach to.",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "18- The suffix ‘-ant’ can combine only with Latin base.",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "19- The suffix ‘-en’ can combine only with monosyllabic base that ends in an obstruent.",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "20-The suffix ‘-en’ cannot combine with the adjective ‘blue’ to get the verb ‘blueen’.",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "21-The base with which the “-er” combines in the word “worker” is the noun “work",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "b) False"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "22- The meaning of an exocentric compound can be determined from the meaning of the components of the compound",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "b) False"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "23- Grammar is the collection of principles defining how to put together a sentence.",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "24- In English compound words, the rightmost morpheme determines the category of the entire word",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "25- The base for the word ‘optionality’ is ‘option’",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "b) False"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "26- In endocentric compounds, the meaning of the entire word can be determined from its component.",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "27- The root for the word ‘blackened’ is ‘black’",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "28- The word ‘black'board’ is a compound word.",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "b) False"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "29- The word 'steamboat' is an endocentric compound word",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "B) Decide whether the following sentences are true(t) or false(f):",
+        "title": "30- The relationship between the words ‘Iam/I'm’ can be described as cliticization",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "31- A root is ………………",
+        "answer_1": "a) a morpheme that cannot stand alone.",
+        "answer_2": "b) a morpheme that conveys the main meaning of a word.",
+        "answer_3": "c) a morpheme that can change the lexical category of the word.",
+
+        "right_answer": "b) a morpheme that conveys the main meaning of a word."
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "32- The relationship between the words good / better can be described as.....",
+        "answer_1": "a) conversion",
+        "answer_2": "b) suppletion",
+        "answer_3": "c) internal change",
+
+        "right_answer": "b) suppletion"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "33- The relationship between the words sing / sang can be described as.....",
+        "answer_1": "a) conversion",
+        "answer_2": "b) suppletion",
+        "answer_3": "c) internal change",
+
+        "right_answer": "c) internal change"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "34- The relationship between the words I am / I'm can be described as.....",
+        "answer_1": "a) conversion",
+        "answer_2": "b) suppletion",
+        "answer_3": "c) cliticization",
+
+        "right_answer": "c) cliticization"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "35- The word speakers consists of ………………",
+        "answer_1": "a) one morpheme",
+        "answer_2": "b) two morphemes",
+        "answer_3": "c) three morphemes",
+
+        "right_answer": "c) three morphemes"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "36- The word ‘elephant’ consists of ………………",
+        "answer_1": "a) one morpheme",
+        "answer_2": "b) two morphemes",
+        "answer_3": "c) three morphemes",
+
+        "right_answer": "c) three morphemes"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "37- The word ‘modernized’ consists of ………………",
+        "answer_1": "a) one morpheme",
+        "answer_2": "b) two morphemes",
+        "answer_3": "c) three morphemes",
+
+        "right_answer": "c) three morphemes"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "38- The suffix -er in the word ‘Londoner’ means ………………",
+        "answer_1": "a) someone who does something",
+        "answer_2": "b) a place where we live",
+        "answer_3": "c) someone who inhabits a place",
+
+        "right_answer": "c) someone who inhabits a place"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "39- The relationship between the words go / went can be described as.....",
+        "answer_1": "a) conversion  ",
+        "answer_2": "b) suppletion",
+        "answer_3": "c) internal change",
+
+        "right_answer": "b) suppletion"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "40- The relationship between the words foot / feet can be described as....",
+        "answer_1": "a) conversion",
+        "answer_2": "b) suppletion",
+        "answer_3": "c) internal change",
+
+        "right_answer": "c) internal change"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "41- The relationship between the words teach/teacher can be described as....",
+        "answer_1": "a) stress placement",
+        "answer_2": "b) suppletion",
+        "answer_3": "c) derivation",
+
+        "right_answer": "c) derivation"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "42- The relationship between the words ‘present / pre’sent can be described as....",
+        "answer_1": "a) stress placement",
+        "answer_2": "b) suppletion",
+        "answer_3": "c) internal change",
+
+        "right_answer": "a) stress placement"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "43- The word unhealthy consists of ………………",
+        "answer_1": "a) one morpheme",
+        "answer_2": "b) two morphemes",
+        "answer_3": "c) three morphemes",
+
+        "right_answer": "c) three morphemes"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "44- A compound is ……………….",
+        "answer_1": "a) a word with more than one affix",
+        "answer_2": "b) a word that contains more than one lexical items.",
+        "answer_3": "c) a morpheme that can change the lexical category of a word",
+
+        "right_answer": "b) a word that contains more than one lexical items."
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "45- Allomorphs are ……………….",
+        "answer_1": "a) affixes which create nouns.",
+        "answer_2": "b) morphemes which are inserted inside the root.",
+        "answer_3": "c) variations of the same morpheme.",
+
+        "right_answer": "c) variations of the same morpheme."
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "46- “nationwide” belongs to the category ……………….",
+        "answer_1": "a) verb compound",
+        "answer_2": "b) noun compound",
+        "answer_3": "c) adjective compound",
+
+        "right_answer": "c) adjective compound"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "47- The relationship between the words breakfast / lunch / brunch can be described as ……………….",
+        "answer_1": "a) Blending",
+        "answer_2": "b) clipping",
+        "answer_3": "c) backformation",
+
+        "right_answer": "a) Blending"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "48- Which of the following sentences describes Coinage?",
+        "answer_1": "a) Creating a new word with a meaning or category distinct from that of its base.",
+        "answer_2": "b) Creating totally new words which have never been used in the language before.",
+        "answer_3": "d) Creating new words by taking non-morphemic parts of two already existing items.",
+
+        "right_answer": "b) Creating totally new words which have never been used in the language before."
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "49- The relationship between the words professor / prof can be described as",
+        "answer_1": "a) conversion",
+        "answer_2": "b) clipping",
+        "answer_3": "c) backformation",
+
+        "right_answer": "b) clipping"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "50- Which of the following sentences describes Blending?",
+        "answer_1": "a) Creating a new word with a meaning or category distinct from that of its base",
+        "answer_2": "b) Creating new words by taking non-morphemic parts of two already existing items",
+        "answer_3": "c) Creating totally new words which have never been used in the language before",
+
+        "right_answer": "b) Creating new words by taking non-morphemic parts of two already existing items"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "51- The Affix 'Im' in word 'Imperfect' is...",
+        "answer_1": "a) Prefix",
+        "answer_2": "b) Sufix",
+        "answer_3": "c) Root",
+
+        "right_answer": "a) Prefix"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "52- The Affix 'dom' in word 'Kingdom' is...",
+        "answer_1": "a) Prefix",
+        "answer_2": "b) Sufix",
+        "answer_3": "c) Root",
+
+        "right_answer": "b) Sufix"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "53- Which of the following words are example of 'Acronyms'?",
+        "answer_1": "a) Gas",
+        "answer_2": "b) USA",
+        "answer_3": "c) Brunch",
+
+        "right_answer": "b) USA"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "54- Which of the following words are example of 'Clipping'?",
+        "answer_1": "a) Gas",
+        "answer_2": "b) USA",
+        "answer_3": "c) Brunch",
+
+        "right_answer": "a) Gas"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "55- Which of the following words are example of 'Blending'?",
+        "answer_1": "a) Gas",
+        "answer_2": "b) USA",
+        "answer_3": "c) Brunch",
+
+        "right_answer": "c) Brunch"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "56- Morpheme has...types",
+        "answer_1": "a) 1 type",
+        "answer_2": "b) 3 types",
+        "answer_3": "c) 2 types",
+
+        "right_answer": "c) 2 types"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "57- Morpheme is...",
+        "answer_1": "a) The Smallest unit of language that carries information about meaning or function",
+        "answer_2": "b) It's a process that shortenes poly-syllabic words by deleting one or more syllables",
+        "answer_3": "c) The various forms of the same morpheme giving the same meaning",
+
+        "right_answer": "a) The Smallest unit of language that carries information about meaning or function"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "58- Clipping is...",
+        "answer_1": "a) The Smallest unit of language that carries information about meaning or function",
+        "answer_2": "b) It's a process that shortenes poly-syllabic words by deleting one or more syllables",
+        "answer_3": "c) The various forms of the same morpheme giving the same meaning",
+
+        "right_answer": "b) It's a process that shortenes poly-syllabic words by deleting one or more syllables"
+    },
+    {
+        "heading": "C) Choose the correct answer:",
+        "title": "59- Allomorphs is...",
+        "answer_1": "a) The Smallest unit of language that carries information about meaning or function",
+        "answer_2": "b) It's a process that shortenes poly-syllabic words by deleting one or more syllables",
+        "answer_3": "c) The various forms of the same morpheme giving the same meaning",
+
+        "right_answer": "c) The various forms of the same morpheme giving the same meaning"
+    },
+    {
+        "heading": "--Decide whether the following sentences are true(t) or false(f):",
+        "title": "60- Free morpheme and Bound morpheme are types of Affix",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+
+        "right_answer": "a) True"
+    }
+]
