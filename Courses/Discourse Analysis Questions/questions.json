@@ -1,0 +1,362 @@
+[
+    {
+        "heading": "A) Determine if there any substitution, ellipsis, or reference:",
+        "title": "1- This is a fine hall you have here. I’m so proud to be lecturing in it.",
+        "answer_1": "a) Anaphoric Reference",
+        "answer_2": "b) Cataphoric Reference",
+        "answer_3": "c) Nominal Substitution",
+
+        "right_answer": "a) Anaphoric Reference"
+    },
+    {
+        "heading": "A) Determine if there any substitution, ellipsis, or reference:",
+        "title": "2- This is a fine hall you have here. I have never lectured in a finer one.",
+        "answer_1": "a) Anaphoric Reference",
+        "answer_2": "b) Cataphoric Reference",
+        "answer_3": "c) Nominal Substitution",
+
+        "right_answer": "c) Nominal Substitution"
+    },
+    {
+        "heading": "A) Determine if there any substitution, ellipsis, or reference:",
+        "title": "3- This is a fine hall you have here. I have never lectured in a finer. X",
+        "answer_1": "a) Verbal Ellipsis",
+        "answer_2": "b) Nominal Ellipsis",
+        "answer_3": "c) Clausal Ellipsis",
+
+        "right_answer": "b) Nominal Ellipsis"
+    },
+    {
+        "heading": "B) Choose the correct answer:",
+        "title": "4- …………. is an item of a text deleted but understood from the speech.",
+        "answer_1": "a) Substitution",
+        "answer_2": "b) Ellipsis",
+        "answer_3": "c) Reference",
+
+        "right_answer": "b) Ellipsis"
+    },
+    {
+        "heading": "B) Choose the correct answer:",
+        "title": "5- Ellipsis is substitution by zero",
+        "answer_1": "a) True",
+        "answer_2": "b) False",
+        "answer_3": "c) Maybe",
+
+        "right_answer": "a) True"
+    },
+    {
+        "heading": "C) Determine which type of substitution is the following:",
+        "title": "6- I’m so glad I moved to Australia. I hope you'll visit me 'here' one day.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "C) Determine which type of substitution is the following:",
+        "title": "7- John asked me to go for dinner at Toni's Italian, but I didn't want to go 'there'.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "C) Determine which type of substitution is the following:",
+        "title": "8- I don’t like that drink. Can you order me another 'one'?",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "C) Determine which type of substitution is the following:",
+        "title": "9- He wants the beef burger with cheese, and I think I'll have 'the same'.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "C) Determine which type of substitution is the following:",
+        "title": "10- I'm sure I'll get home before you 'do'.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "b) Verbal"
+    },
+    {
+        "heading": "C) Determine which type of substitution is the following:",
+        "title": "11- Olivia likes pancakes and so 'does' Jane/so 'do' I.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "b) Verbal"
+    },
+    {
+        "heading": "C) Determine which type of substitution is the following:",
+        "title": "12- Do you think John will pass his driving test first time? No, I don't think 'so'.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "c) Clausal"
+    },
+    {
+        "heading": "C) Determine which type of substitution is the following:",
+        "title": "13- She didn't even thank me. 'That's' why I won't help her again",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "c) Clausal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "14- He chose the red 'car', but I liked the blue.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "15- The girl’s 'parents' care about her, but the boys have no time for him.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "16- A: Which one is your 'father'? B: The taller.",
+        "answer_1": "a) Verbal",
+        "answer_2": "b) Nominal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "b) Nominal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "17- A: Where is the 'salt'? B: I need some.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "18- His 'sons' went into business. Neither succeeded.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "19- A: Is there any 'hotel' near from here? B: Unfortunately, there isn’t any.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "20- Write an essay about the following two 'ideas'. Two pages for each are enough.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "21- I’ll have the usual 'x', please.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "22- I have used two of the three 'folders' you gave me. May I use the other?",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "a) Nominal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "23- Jean 'brought' some presents, and john some sweets.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "b) Verbal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "24- Because Alice won’t, Marry has to 'sweep' the floor",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "b) Verbal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "25- A: Can all cats 'climb' trees? B: Yes, they all can.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "b) Verbal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "26- A: Have you 'been swimming'? B: Yes, I have.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "b) Verbal"
+    },
+    {
+        "heading": "D) Determine which type of Ellipsis is the Following:",
+        "title": "27- Some 'were' laughing and the other crying.",
+        "answer_1": "a) Nominal",
+        "answer_2": "b) Verbal",
+        "answer_3": "c) Clausal",
+
+        "right_answer": "b) Verbal"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "28- A: I really like your new haircut! B: Oh, thanks.",
+        "answer_1": "a) Compliment / Acceptance",
+        "answer_2": "b) Compliment / Refusal",
+        "answer_3": "c) Compliment / Refusal",
+
+        "right_answer": "a) Compliment / Acceptance"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "29- A: I really like your new hair colour!  B: Oh, you’re just saying that... I don’t believe you.",
+        "answer_1": "a) Compliment / Acceptance",
+        "answer_2": "b) Compliment / Refusal",
+        "answer_3": "c) Compliment / Refusal",
+
+        "right_answer": "b) Compliment / Refusal"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "30- A: Your phone is over there. B: Oh, yes.",
+        "answer_1": "a) Compliment / Acceptance",
+        "answer_2": "b) Compliment / Refusal",
+        "answer_3": "c) Information / Acknowledgement",
+
+        "right_answer": "c) Information / Acknowledgement"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "31- A: Hiya! B: Oh, hi!",
+        "answer_1": "a) Greeting / Greeting",
+        "answer_2": "b) Offer / Acceptance",
+        "answer_3": "c) Offer / Refusal",
+
+        "right_answer": "a) Greeting / Greeting"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "32- A: Would you like to visit the museum with me this evening? B: I'd love to!",
+        "answer_1": "a) Greeting / Greeting",
+        "answer_2": "b) Offer / Acceptance",
+        "answer_3": "c) Offer / Refusal",
+
+        "right_answer": "b) Offer / Acceptance"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "33- A: Would you like to visit the museum with me this evening? B: Sorry, I can’t make it.",
+        "answer_1": "a) Greeting / Greeting",
+        "answer_2": "b) Offer / Acceptance",
+        "answer_3": "c) Offer / Refusal",
+
+        "right_answer": "c) Offer / Refusal"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "34- A: What does this big red button do? B: It causes two-thirds of the universe to implode.",
+        "answer_1": "a) Greeting / Greeting",
+        "answer_2": "b) Offer / Acceptance",
+        "answer_3": "c) Question / Answer",
+
+        "right_answer": "c) Question / Answer"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "35- A: Is it OK if I borrow this book?  B: I'd rather you didn't, it's due back at the library tomorrow.",
+        "answer_1": "a) Request / Rejection",
+        "answer_2": "b) Summons / Answer",
+        "answer_3": "c) Accusation / Denial",
+
+        "right_answer": "a) Request / Rejection"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "36- A: Joe! B: Joe: Sir?",
+        "answer_1": "a) Request / Rejection",
+        "answer_2": "b) Summons / Answer",
+        "answer_3": "c) Accusation / Denial",
+
+        "right_answer": "b) Summons / Answer"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "37- A: Look! Look what you made me do! B: I made you do? I made you do? I wasn’t near you.",
+        "answer_1": "a) Request / Rejection",
+        "answer_2": "b) Summons / Answer",
+        "answer_3": "c) Accusation / Denial",
+
+        "right_answer": "c) Accusation / Denial"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "38- A: You scared her when you yelled. It was funny. B: It was not yelling. I was warming up my voice. It was a voice exercise.",
+        "answer_1": "a) Request / Rejection",
+        "answer_2": "b) Summons / Answer",
+        "answer_3": "c) Assertion / Disagreement",
+
+        "right_answer": "c) Assertion / Disagreement"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "39- A: Hello. B: Hi.",
+        "answer_1": "a) Greeting / Greeting",
+        "answer_2": "b) Summons / Answer",
+        "answer_3": "c) Complaint / Denial",
+
+        "right_answer": "a) Greeting / Greeting"
+    },
+    {
+        "heading": "E) Identify the function of Adjacency Pairs:",
+        "title": "40- A: Jimmy! B: Coming, mother",
+        "answer_1": "a) Greeting / Greeting",
+        "answer_2": "b) Summons / Answer",
+        "answer_3": "c) Complaint / Denial",
+
+        "right_answer": "b) Summons / Answer"
+    }
+]

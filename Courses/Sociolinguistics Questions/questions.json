@@ -1,0 +1,474 @@
+[
+    {
+        "heading": "A) True or False",
+        "title": "1- In AAVE, 'Verb to be' is used to contracted negative.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "False"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "2- Lone items can't be grouped with other types of Code-Mixing into one category.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "True"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "3- Both Borrowing and Code-Switching forms behave the same way morpho-syntactically in the Matrix language.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "True"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "4- Middle-Class in British English pronounce /r/ more than Middle-Class.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "False"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "5- All Borrowing are Matrix language Materials.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "True"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "6- In AAVE, final vowel clusters are reduced while speaking.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "False"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "7- Mixed discourse consistent of lone elements in one language embedded into another.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "True"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "8- In AAVE, alveolar stops are replaced by initial dental Consonant.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "False"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "9- Loanwords are integrated into a grammatical system of recipient language.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "True"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "10- In AAVE, (-s) Morpheme is used in plural or possessive.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "False"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "11- Code-Switching refers to interaction between grammatical systems.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "True"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "12- Inter-sentential alternation occurs within the clause or sentence.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "False"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "13- All Code-Switches structurally represented material embedded into a Matrix language.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "True"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "14- knowledge of foreign origin disappears in Borrowing.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "True"
+    },
+    {
+        "heading": "A) True or False",
+        "title": "15- Intra-sentential Code-Mixing don't violate grammatical restrictions.",
+        "answer_1": "True",
+        "answer_2": "False",
+
+        "right_answer": "True"
+    },
+    {
+        "heading": "B) Identify the degree of Formality of these sentences:",
+        "title": "16- The consumption of any nutriments whatsoever is categorically prohibited in this establishment.",
+        "answer_1": "a) Official",
+        "answer_2": "b) Formal",
+        "answer_3": "c) Neuter",
+        "answer_4": "d) Informal",
+        "answer_5": "e) Colloquial",
+
+        "right_answer": "a) Official"
+    },
+    {
+        "heading": "B) Identify the degree of Formality of these sentences:",
+        "title": "17- You are requested not to consume food in this establishment.",
+        "answer_1": "a) Official",
+        "answer_2": "b) Formal",
+        "answer_3": "c) Neuter",
+        "answer_4": "d) Informal",
+        "answer_5": "e) Colloquial",
+
+        "right_answer": "b) Formal"
+    },
+    {
+        "heading": "B) Identify the degree of Formality of these sentences:",
+        "title": "18- Eating is not allowed here.",
+        "answer_1": "a) Official",
+        "answer_2": "b) Formal",
+        "answer_3": "c) Neuter",
+        "answer_4": "d) Informal",
+        "answer_5": "e) Colloquial",
+
+        "right_answer": "c) Neuter"
+    },
+    {
+        "heading": "B) Identify the degree of Formality of these sentences:",
+        "title": "19- Please don't eat here.",
+        "answer_1": "a) Official",
+        "answer_2": "b) Formal",
+        "answer_3": "c) Neuter",
+        "answer_4": "d) Informal",
+        "answer_5": "e) Colloquial",
+
+        "right_answer": "d) Informal"
+    },
+    {
+        "heading": "B) Identify the degree of Formality of these sentences:",
+        "title": "20- You can't feed your face here.",
+        "answer_1": "a) Official",
+        "answer_2": "b) Formal",
+        "answer_3": "c) Neuter",
+        "answer_4": "d) Informal",
+        "answer_5": "e) Colloquial",
+
+        "right_answer": "e) Colloquial"
+    },
+    {
+        "heading": "C) Identify the degree of Generalityof these sentences:",
+        "title": "21- Critical path analysis is an operational research technique used in management",
+        "answer_1": "a) Simple",
+        "answer_2": "b) Popular",
+        "answer_3": "c) Neutral",
+        "answer_4": "d) Educated",
+        "answer_5": "e) Technical",
+
+        "right_answer": "e) Technical"
+    },
+    {
+        "heading": "C) Identify the degree of Generalityof these sentences:",
+        "title": "22- The floor of the oceans is covered with rows of big mountains and deep pits.",
+        "answer_1": "a) Simple",
+        "answer_2": "b) Popular",
+        "answer_3": "c) Neutral",
+        "answer_4": "d) Educated",
+        "answer_5": "e) Technical",
+
+        "right_answer": "b) Popular"
+    },
+    {
+        "heading": "C) Identify the degree of Generalityof these sentences:",
+        "title": "23- The floor of the sea is covered with rows of big mountains and deep pits.",
+        "answer_1": "a) Simple",
+        "answer_2": "b) Popular",
+        "answer_3": "c) Neutral",
+        "answer_4": "d) Educated",
+        "answer_5": "e) Technical",
+
+        "right_answer": "a) Simple"
+    },
+    {
+        "heading": "C) Identify the degree of Generalityof these sentences:",
+        "title": "24- A graveyard of animal and plants remains lies in the earth's crust.",
+        "answer_1": "a) Simple",
+        "answer_2": "b) Popular",
+        "answer_3": "c) Neutral",
+        "answer_4": "d) Educated",
+        "answer_5": "e) Technical",
+
+        "right_answer": "c) Neutral"
+    },
+    {
+        "heading": "C) Identify the degree of Generalityof these sentences:",
+        "title": "25- The latest step in vertebrates’ evaluation was the tool-making man.",
+        "answer_1": "a) Simple",
+        "answer_2": "b) Popular",
+        "answer_3": "c) Neutral",
+        "answer_4": "d) Educated",
+        "answer_5": "e) Technical",
+
+        "right_answer": "d) Educated"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "26- Formal lectures",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "27- Worker’s instructors",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "b) Low Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "28- Familiars’ conversation",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "b) Low Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "29- Culture indoctrination",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "30- Popular programs",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "b) Low Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "31- Religious discussions",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "32- Sermons",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "33- Political cartoons",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "b) Low Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "34- Parliament",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "35- Legislative body",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "36- Newspapers",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "b) Low Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "37- Political speeches",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "38- News broadcasting",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "39- lecture question answer",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "b) Low Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "40- Writing poetry",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "41- Fine literature",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "42- Newspapers editorials",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "43- Lecture question",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "a) High Variety"
+    },
+    {
+        "heading": "D) According to the Diglossia identify which of these sentences are:",
+        "title": "44- Folk literature",
+        "answer_1": "a) High Variety",
+        "answer_2": "b) Low Variety",
+
+        "right_answer": "b) Low Variety"
+    },
+    {
+        "heading": "E) Choose the correct answer",
+        "title": "45- Variety of languages that developed for some practical purposes.",
+        "answer_1": "a) Pidgins",
+        "answer_2": "b) Creoles",
+        "answer_3": "c) Register",
+
+        "right_answer": "a) Pidgins"
+    },
+    {
+        "heading": "E) Choose the correct answer",
+        "title": "46- .......... Incorporation of lexical items from one language into another.",
+        "answer_1": "a) Code-Switching",
+        "answer_2": "b) Borrowing",
+        "answer_3": "c) Code-Mixing",
+
+        "right_answer": "b) Borrowing"
+    },
+    {
+        "heading": "E) Choose the correct answer",
+        "title": "47- .......... use appropriate language in a specific context.",
+        "answer_1": "a) Pidgins",
+        "answer_2": "b) Creoles",
+        "answer_3": "c) Register",
+
+        "right_answer": "c) Register"
+    },
+    {
+        "heading": "E) Choose the correct answer",
+        "title": "48- The term from a Chinese version of the English word 'business'.",
+        "answer_1": "a) Pidgins",
+        "answer_2": "b) Creoles",
+        "answer_3": "c) Register",
+
+        "right_answer": "a) Pidgins"
+    },
+    {
+        "heading": "E) Choose the correct answer",
+        "title": "49- Which of these creoles is considered as a French creole ..........",
+        "answer_1": "a) Jamaica",
+        "answer_2": "b) Sierra leons",
+        "answer_3": "c) Haiti",
+
+        "right_answer": "c) Haiti"
+    },
+    {
+        "heading": "E) Choose the correct answer",
+        "title": "50- .......... vocabulary associated with specific area of work or interest.",
+        "answer_1": "a) Pidgins",
+        "answer_2": "b) Creoles",
+        "answer_3": "c) Jargon",
+
+        "right_answer": "c) Jargon"
+    },
+    {
+        "heading": "E) Choose the correct answer",
+        "title": "51- .......... use functional morphemes instead of inflectional morphemes.",
+        "answer_1": "a) Pidgins",
+        "answer_2": "b) Creoles",
+        "answer_3": "c) Register",
+
+        "right_answer": "a) Pidgins"
+    },
+    {
+        "heading": "E) Choose the correct answer",
+        "title": "52- .......... a pidgin develops beyond its rule as a trade or contact language and becomes the first language of the social community.",
+        "answer_1": "a) Pidgins",
+        "answer_2": "b) Creoles",
+        "answer_3": "c) Register",
+
+        "right_answer": "b) Creoles"
+    },
+    {
+        "heading": "E) Choose the correct answer",
+        "title": "53- The embedding of various linguistic units such as affixes, words, and phrases.",
+        "answer_1": "a) Code-Switching",
+        "answer_2": "b) Borrowing",
+        "answer_3": "c) Code-Mixing",
+
+        "right_answer": "c) Code-Mixing"
+    },
+    {
+        "heading": "E) Choose the correct answer",
+        "title": "54- The alternation use of two languages within the same distance.",
+        "answer_1": "a) Code-Switching",
+        "answer_2": "b) Borrowing",
+        "answer_3": "c) Code-Mixing",
+
+        "right_answer": "a) Code-Switching"
+    }
+]

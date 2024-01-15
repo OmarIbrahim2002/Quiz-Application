@@ -1,0 +1,75 @@
+.container{
+    background: white;
+    width: 400px;
+    padding: 15px 10px;
+
+    & p{
+    margin-bottom: 12px;
+    color: red;
+    font-weight: bold;
+}
+    & a{
+    overflow: hidden;
+    position: relative;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    background: #eee;
+    width: 100%;
+    display: block;
+    border-radius: 8px;
+    transition: var(--transition);
+    -webkit-transition: var(--transition);
+    -moz-transition: var(--transition);
+    -ms-transition: var(--transition);
+    -o-transition: var(--transition);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+    & a:not(:last-child){
+    margin-bottom: 5px;
+}
+    & a:not(.done):hover{
+    color: var(--secColor);
+    transform: scale(1.03);
+    -webkit-transform: scale(1.03);
+    -moz-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    -o-transform: scale(1.03);
+}
+    & a::before{
+    content: 'Start';
+    position: absolute;
+    top: 0;
+    right: -13px;
+    width: 0;
+    height: 100%;
+    background: var(--secColor);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    transform: skewX(27deg);
+    transition: var(--transition);
+    -webkit-transition: var(--transition);
+    -moz-transition: var(--transition);
+    -ms-transition: var(--transition);
+    -o-transition: var(--transition);
+}
+    & a:hover::before{
+    width: 20%;
+}
+    & a.done{
+        text-decoration: line-through;
+        transition: var(--transition);
+        -webkit-transition: var(--transition);
+        -moz-transition: var(--transition);
+        -ms-transition: var(--transition);
+        -o-transition: var(--transition);
+}
+    & a.done:hover{
+        text-decoration: none;
+    }
+}
